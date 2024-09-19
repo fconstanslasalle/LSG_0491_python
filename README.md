@@ -1,4 +1,4 @@
-## Instalació entorn Python
+## Instal·lació entorn Python
 Comprovem la nostre versió de python al ordinador. En cas de Windows, executar "cmd.exe" 
 ```
 C:\Users\Your Name>python --version
