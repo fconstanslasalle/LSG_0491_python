@@ -69,7 +69,7 @@ from odoo import models, fields
 
 class AcademyCourse(models.Model):
     _name = 'academy.course'
-    _description = 'Curs de l\'acadèmia'
+    _description = "Curs de l'acadèmia"
 
     name = fields.Char(string='Nom', required=True)
     description = fields.Text(string='Descripció')
